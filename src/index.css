@@ -1,0 +1,15 @@
+/* Simple styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  margin: 0.5em 0;
+  padding: 0.5em;
+  display: block;
+}
+
+button {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+}
